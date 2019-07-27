@@ -6,10 +6,11 @@ Models: ANN, CNN, RNN
 
 
 Google colab shortcuts:
-Execute shell: ctrl + enter
-Insert cell below: ctrl + m + b
-Insert cell Above: ctrl + m + a
-change code cell to text cell: ctrl + m + m (or long press m)
-change text cell to code cell: ctrl + m + y
-view docstring: alt + + + / [alt+/]
+
+1. Execute shell: ctrl + enter
+2. Insert cell below: ctrl + m + b
+3. Insert cell Above: ctrl + m + a
+4. change code cell to text cell: ctrl + m + m (or long press m)
+5. change text cell to code cell: ctrl + m + y
+6. view docstring: alt + + + / [alt+/]
 
