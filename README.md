@@ -1,6 +1,5 @@
 
-1. Deep learning model building with tensorflow 2.o.
-Models: ANN, CNN, RNN
+1. Deep learning model building with tensorflow 2.0 [Models: ANN, CNN, RNN]
 2. Distributed training with tensorflow
 3. Model deployment with tensorflow serving
 
